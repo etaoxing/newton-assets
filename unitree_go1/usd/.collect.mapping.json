@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/IsaacLab/Robots/Unitree/Go1/go1.usd",
+            "source_hash": "",
+            "target_url": "./go1.usd",
+            "target_hash": ""
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/IsaacLab/Robots/Unitree/Go1/Props/instanceable_meshes.usd",
+            "source_hash": "",
+            "target_url": "./Props/instanceable_meshes.usd",
+            "target_hash": ""
+        }
+    ]
+}
